@@ -1,0 +1,1 @@
+A beginner-friendly JavaScript project that converts a temperature from Kelvin > Celsius > Fahrenheit. This project is perfect for practicing basic variables, math operations, and displaying results in the browser console.
